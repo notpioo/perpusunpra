@@ -42,5 +42,9 @@
     "gulp-open": "3.0.1",
     "sass": "1.80.2"
   },
-  "homepage": "http://creative-tim.com/product/argon-dashboard"
+  "homepage": "http://creative-tim.com/product/argon-dashboard",
+  "dependencies": {
+    "gulp-connect": "^5.7.0",
+    "gulp-watch": "^5.0.1"
+  }
 }
